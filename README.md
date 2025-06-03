@@ -5,6 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cgutie256/osticket-prereqs)
 
+  - [osTicket: Post-Install Configuration](https://github.com/cgutie256/post-install-config)
+
 <h2>🤳Connect with me:</h2>
 
 
