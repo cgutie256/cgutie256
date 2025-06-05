@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure</b>
 
-  - [Azure: Creating Virtual Networks](https://github.com/cgutie256/Creating-Virtual-Networks)
+  - [Azure: Creating Virtual Machines](https://github.com/cgutie256/Creating-Virtual-Machines)
 
 <h2>🤳Connect with me:</h2>
 
